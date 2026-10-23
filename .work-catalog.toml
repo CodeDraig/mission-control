@@ -1,0 +1,13 @@
+# Project metadata for work-catalog. Edit deliberately; refresh imports changes.
+schema_version = 1
+
+[project]
+id = "mission-control-d98652d6"
+purpose = "Self-hosted agent operations dashboard backed by SQLite."
+state = "archived"
+next_action = "Review and preserve the reported local changes before delivery; establish the intended next task without inferring lifecycle."
+tags = ["repository", "xint"]
+
+[annotations]
+tags = []
+note = ""
